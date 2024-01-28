@@ -1,0 +1,27 @@
+[
+    {
+        "name": "mi20",
+        "price": 20000,
+        "company": "MI"
+    },
+    {
+        "name": "Dell aspiron 13",
+        "price": 86000,
+        "company": "Dell"
+    },
+    {
+        "name": "Macbook pro retina 15 inch",
+        "price": 2499.99,
+        "company": "Apple"
+    },
+    {
+        "name": "HP Pavilion x360",
+        "price": 799.99,
+        "company": "HP"
+    },
+    {
+        "name": "Acer Aspire VX-242H",
+        "price": 1299.99,
+        "company": "Acer"
+    }
+]
