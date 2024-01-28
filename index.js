@@ -23,7 +23,7 @@ app.use('/api', globalRoutes);
 const PORT = process.env.PORT || 8000;
 try {
     connectDB().then(() => {
-        app.listen(PORT, () => {
+        app.listen(PORT,"0.0.0.0", () => {
             console.log(`Server is live at ${PORT}`);
         })
     });
